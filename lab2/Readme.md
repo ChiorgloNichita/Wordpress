@@ -18,7 +18,7 @@ Apache
 MySQL
 ```
 
-![alt text](image/image.png)
+![alt text](image/image/image/image.png)
 
 Далее была проверена работа локального сервера:
 
@@ -32,7 +32,7 @@ http://localhost
 wp_lab2
 ```
 
-![alt text](image.png)
+![alt text](image/image.png)
 
 # Шаг 2. Установка WordPress
 
@@ -62,8 +62,8 @@ http://localhost/wp_lab2
 
 После установки стала доступна **административная панель WordPress**.
 
-![alt text](image-1.png)
-![alt text](image-2.png)
+![alt text](image/image-1.png)
+![alt text](image/image-2.png)
 
 # Шаг 3. Первоначальные настройки сайта
 
@@ -79,7 +79,7 @@ Settings → General
 
 - название сайта
 - часовой пояс
-  ![alt text](image-3.png)
+  ![alt text](image/image-3.png)
 
 Затем в разделе:
 
@@ -95,7 +95,7 @@ Post name
 
 Это позволяет формировать удобные ссылки на страницы сайта.
 
-![alt text](image-4.png)
+![alt text](image/image-4.png)
 
 # Шаг 4. Работа с темами
 
@@ -115,7 +115,7 @@ Appearance → Themes
 Astra
 ```
 
-![alt text](image-5.png)
+![alt text](image/image-5.png)
 
 3. Тема была активирована.
 
@@ -134,7 +134,7 @@ Appearance → Customize
 - изменён заголовок сайта
 - добавлено описание сайта
 
-![alt text](image-6.png)
+![alt text](image/image-6.png)
 
 # Шаг 5. Работа с плагинами
 
@@ -151,21 +151,21 @@ Plugins → Add New
 ### Classic Editor
 
 Плагин, который возвращает классический редактор записей WordPress.
-![alt text](image-7.png)
+![alt text](image/image-7.png)
 
 ### Contact Form 7
 
 Плагин для создания формы обратной связи.
 
 После установки плагины были активированы.
-![alt text](image-8.png)
+![alt text](image/image-8.png)
 
 Далее была проверена их работа:
 
 - создание записи через **Classic Editor**
-  ![alt text](image-9.png)
+  ![alt text](image/image-9.png)
 - создание формы через **Contact Form 7**
-  ![alt text](image-10.png)
+  ![alt text](image/image-10.png)
 
 Также один из плагинов был временно отключён через раздел:
 
@@ -173,8 +173,8 @@ Plugins → Add New
 Plugins → Installed Plugins
 ```
 
-![alt text](image-11.png)
-![alt text](image-12.png)
+![alt text](image/image-11.png)
+![alt text](image/image-12.png)
 
 # Шаг 6. Создание контента
 
@@ -189,7 +189,7 @@ Plugins → Installed Plugins
 ```
 
 На страницу была добавлена форма обратной связи с использованием плагина **Contact Form 7**.
-![alt text](image-13.png)
+![alt text](image/image-13.png)
 
 ## Записи блога
 
@@ -200,7 +200,7 @@ Plugins → Installed Plugins
 
 После публикации была проверена корректность отображения контента на сайте.
 
-![alt text](image-14.png)
+![alt text](image/image-14.png)
 
 # Контрольные вопросы
 
