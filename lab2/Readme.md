@@ -18,7 +18,7 @@ Apache
 MySQL
 ```
 
-![alt text](image/image/image/image.png)
+![alt text](image/image.png)
 
 Далее была проверена работа локального сервера:
 
