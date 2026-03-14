@@ -32,7 +32,7 @@ http://localhost
 wp_lab2
 ```
 
-![alt text](image/image.png)
+![alt text](image/image15.png)
 
 # Шаг 2. Установка WordPress
 
