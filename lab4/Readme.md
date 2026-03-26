@@ -95,7 +95,7 @@ usm-notes.php
 
 ### Меню
 
-![Меню](Image/image-4.png)
+![Меню](Image/image-3.png)
 
 ### Добавление приоритетов
 
