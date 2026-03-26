@@ -195,15 +195,15 @@ usm-notes.php
 - работа шорткода с фильтром по приоритету
 - работа шорткода с фильтром по дате
 
-### для отображения всех заметок
+### Для отображения всех заметок
 
 ![для отображения всех заметок](Image/image-9.png)
 
-### для отображения заметок с высоким приоритетом
+### Для отображения заметок с высоким приоритетом
 
 ![для отображения заметок с высоким приоритетом](Image/image-10.png)
 
-### для отображения заметок с датой напоминания до 30 апреля 2025 года
+### Для отображения заметок с датой напоминания до 30 апреля 2025 года
 
 ![для отображения заметок с датой напоминания до 30 апреля 2025 года](Image/image-12.png)
 
@@ -270,4 +270,4 @@ usm-notes.php
 
 1. [Документация WordPress](https://ru.wordpress.org/plugins/)
 2. [WordPress Plugin Handbook](https://developer.wordpress.org/plugins/)
-3. [Git plugin] https://github.com/WordPress/developer-plugins-handbook
+3. [Git plugin](https://github.com/WordPress/developer-plugins-handbook/)
