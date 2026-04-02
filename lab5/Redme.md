@@ -32,8 +32,11 @@ define('WP_DEBUG', true);
 -достаточную длину.
 
 **Создание текстового пользователя**
+
 ![alt text](Image/image.png)
+
 **Проверка пользователей и ролей**
+
 ![alt text](Image/image-1.png)
 
 ### Шаг 3. Обновления ядра, тем и плагинов
@@ -43,10 +46,15 @@ define('WP_DEBUG', true);
 Сначала был открыт раздел обновлений в панели администратора, где выполняется централизованная проверка доступных обновлений. В ходе проверки было установлено, что ядро WordPress уже обновлено до актуальной версии. После этого были обновлены темы и плагины, для которых были доступны новые версии.
 
 **Раздел обновления Wordpress**
+
 ![Вордпресс](Image/image-2.png)
+
 **Обновление плагинов**
+
 ![Плагины](Image/image-3.png)
+
 **Обновление тем**
+
 ![Темы](Image/image-4.png)
 
 ### Шаг 4. Базовое hardening
@@ -78,6 +86,7 @@ define('DISALLOW_FILE_EDIT', true);
 ### Шаг 5. Установка и первичная настройка All In One WP Security & Firewall (AIOS)
 
 Использован плагин All In One WP Security & Firewall.
+
 ![AIOS](Image/image-5.png)
 
 ## User Login (Login Lockdown)
@@ -121,7 +130,9 @@ define('DISALLOW_FILE_EDIT', true);
 - отключение directory browsing
 
 ![alt text](Image/image-9.png)
+
 ![alt text](Image/image-10.png)
+
 ![alt text](Image/image-11.png)
 
 ## Brute Force
@@ -165,8 +176,11 @@ define('DISALLOW_FILE_EDIT', true);
 После завершения импорта была выполнена проверка состояния сайта. Удалённые данные были восстановлены, что подтверждает корректную работу механизма резервного копирования и восстановления.
 
 **До восстановления**
+
 ![alt text](Image/image-14.png)
+
 **После восстановления**
+
 ![alt text](Image/image-17.png)
 
 ## Контрольные вопросы
